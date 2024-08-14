@@ -1,0 +1,150 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "Hey there",
+          "Good day",
+          "Is anyone here?",
+          "How are you?"
+        ],
+        "responses": [
+          "Hello! Welcome to Hamoud Boualem.",
+          "Hi there! How can I assist you with our products?",
+          "Hey! Thanks for stopping by. How can I help you today?",
+          "Greetings! What can I do for you today?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Goodbye",
+          "See you later",
+          "Bye",
+          "Talk to you soon"
+        ],
+        "responses": [
+          "Goodbye! Thanks for visiting Hamoud Boualem.",
+          "See you soon! Feel free to come back anytime.",
+          "Bye! Have a wonderful day and enjoy your drinks!",
+          "Take care! We hope to see you again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thank you",
+          "Thanks a lot",
+          "I appreciate it",
+          "Thanks"
+        ],
+        "responses": [
+          "You're welcome! Happy to help.",
+          "My pleasure! Enjoy your day.",
+          "Anytime! We're here to assist you.",
+          "Glad to be of service! Cheers!"
+        ]
+      },
+      {
+        "tag": "products",
+        "patterns": [
+          "What drinks do you have?",
+          "Tell me about your products",
+          "What sodas do you sell?",
+          "What beverages are available?"
+        ],
+        "responses": [
+          "We offer a variety of soft drinks including the iconic Selecto, Hamoud, and Champomy.",
+          "Our product lineup includes Selecto, a popular Algerian soda, as well as other classic flavors like Hamoud and Champomy.",
+          "We have a wide range of beverages, including Selecto, Hamoud, and other refreshing soft drinks."
+        ]
+      },
+      {
+        "tag": "product_info",
+        "patterns": [
+          "Tell me about Selecto",
+          "What is Hamoud Boualem known for?",
+          "What's special about Champomy?",
+          "Describe your drinks"
+        ],
+        "responses": [
+          "Selecto is our flagship product, known for its unique taste and beloved by generations of Algerians.",
+          "Hamoud Boualem is famous for its non-alcoholic beverages, especially our signature soda Selecto.",
+          "Champomy is a sparkling non-alcoholic drink, perfect for celebrations and enjoyed by all ages."
+        ]
+      },
+      {
+        "tag": "availability",
+        "patterns": [
+          "Where can I buy your drinks?",
+          "Are your products available online?",
+          "Where are Hamoud Boualem sodas sold?",
+          "Can I find your drinks internationally?"
+        ],
+        "responses": [
+          "Our drinks are available at major retailers in Algeria and select international markets.",
+          "You can find our products in stores across Algeria and online through various retailers.",
+          "Hamoud Boualem sodas are sold in many countries. Check our website for more details on international availability."
+        ]
+      },
+      {
+        "tag": "orders",
+        "patterns": [
+          "How can I place an order?",
+          "Can I order drinks online?",
+          "Do you offer home delivery?",
+          "How do I buy your products?"
+        ],
+        "responses": [
+          "You can place an order through our online store or purchase our products at your nearest retailer.",
+          "We offer online ordering through select partners. Visit our website for more information.",
+          "Home delivery is available in certain areas. Please check our website for delivery options."
+        ]
+      },
+      {
+        "tag": "payments",
+        "patterns": [
+          "What payment methods do you accept?",
+          "Can I pay with credit card?",
+          "Is PayPal accepted?",
+          "Do you take cash?"
+        ],
+        "responses": [
+          "We accept various payment methods including credit cards and PayPal.",
+          "You can pay using most major credit cards or PayPal when ordering online.",
+          "Our online store supports multiple payment options, including credit cards and PayPal."
+        ]
+      },
+      {
+        "tag": "history",
+        "patterns": [
+          "Tell me about Hamoud Boualem's history",
+          "How long has Hamoud Boualem been around?",
+          "When was Hamoud Boualem founded?",
+          "What is the history of Hamoud Boualem?"
+        ],
+        "responses": [
+          "Hamoud Boualem was founded in 1878, making us one of the oldest soft drink brands in Algeria.",
+          "We've been crafting delicious beverages for over a century, since our founding in 1878.",
+          "Hamoud Boualem has a rich history dating back to 1878, and we're proud to be a part of Algeria's cultural heritage."
+        ]
+      },
+      {
+        "tag": "funny",
+        "patterns": [
+          "Tell me a joke!",
+          "Do you know any jokes?",
+          "Make me laugh",
+          "Say something funny"
+        ],
+        "responses": [
+          "Why don't we ever see Selecto in the fridge? Because it's always cooler outside!",
+          "What do you call a bubbly beverage that loves music? A pop star!",
+          "Why did the soda go to school? To become a little 'soda-stic'!"
+        ]
+      }
+    ]
+  }
+  
